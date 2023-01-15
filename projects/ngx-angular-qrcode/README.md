@@ -8,8 +8,8 @@
 ## Need Dynamic QR Codes?
 If you need to dynamic QR codes with analytics and more features, check out [QRtrac](https://qrtrac.com)
 
-<!-- ## [Demo](https://free-qr-code-generator.qrtrac.com/)
-See how can you create QR codes with different options -->
+## [Demo](https://free-qr-code-generator.qrtrac.com/)
+Create, and download beautiful QR Codes.
 
 ## Example QR Codes
 
