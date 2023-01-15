@@ -14,11 +14,12 @@ Create, and download beautiful QR Codes.
 ## Example QR Codes
 
 <div style="display:flex; justify-content=space-around">
-<img style="margin-right: 15px" src="https://github.com/ultrasonicsoft/ngx-angular-qrcode/blob/main/projects/ngx-angular-qrcode/assets/qrcode-1.png?raw=true" width="150" height="150" alt="Qr Code" title="Qr Code">
-<img  style="margin-right: 15px" src="https://github.com/ultrasonicsoft/ngx-angular-qrcode/blob/main/projects/ngx-angular-qrcode/assets/qrcode-2.png?raw=true" width="150" height="150" alt="Qr Code" title="Qr Code">
-<img  style="margin-right: 15px" src="https://github.com/ultrasonicsoft/ngx-angular-qrcode/blob/main/projects/ngx-angular-qrcode/assets/qrcode-3.png?raw=true" width="150" height="150" alt="Qr Code" title="Qr Code">
-<img  style="margin-right: 15px" src="https://github.com/ultrasonicsoft/ngx-angular-qrcode/blob/main/projects/ngx-angular-qrcode/assets/qrcode-4.png?raw=true" width="150" height="150" alt="Qr Code" title="Qr Code">
-<img src="https://github.com/ultrasonicsoft/ngx-angular-qrcode/blob/main/projects/ngx-angular-qrcode/assets/qrcode-5.png?raw=true" width="150" height="150" alt="Qr Code" title="Qr Code">
+<img style="margin-right: 15px" src="https://github.com/ultrasonicsoft/ngx-angular-qrcode/blob/main/projects/assets/qrcode-1.png?raw=true" width="150" height="150" alt="Qr Code" title="Qr Code">
+<img  style="margin-right: 15px" src="https://github.com/ultrasonicsoft/ngx-angular-qrcode/blob/main/projects/assets/qrcode-2.png?raw=true" width="150" height="150" alt="Qr Code" title="Qr Code">
+<img  style="margin-right: 15px" src="https://github.com/ultrasonicsoft/ngx-angular-qrcode/blob/main/projects/assets/qrcode-3.png?raw=true" width="150" height="150" alt="Qr Code" title="Qr Code">
+<img  style="margin-right: 15px" src="https://github.com/ultrasonicsoft/ngx-angular-qrcode/blob/main/projects/assets/qrcode-4.png?raw=true" width="150" height="150" alt="Qr Code" title="Qr Code">
+<img src="https://github.com/ultrasonicsoft/ngx-angular-qrcode/blob/main/projects/assets/qrcode-5.png?raw=true" width="150" height="150" alt="Qr Code" title="Qr Code">
+<img src="https://github.com/ultrasonicsoft/ngx-angular-qrcode/blob/main/projects/assets/qrcode-6.png?raw=true" width="150" height="150" alt="Qr Code" title="Qr Code">
 </div>
 
 
